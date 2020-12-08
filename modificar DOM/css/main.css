@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 16px;
+}
+
+.red {
+    background-color: red;
+}
+
+.gold {
+    background-color: gold;
+}
+
+.blu {
+    background-color: blue;
+}
+
+.porpol {
+    background-color:purple;
+}
+
+.outline {
+    outline: 1px solid black;
+}
